@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface KJMViewController : UIViewController
+@interface KJMViewController : UIViewController <UITextFieldDelegate>
 
 @end
